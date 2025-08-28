@@ -5,22 +5,22 @@
 
 ## Part 1 - GitHub Profile
 
-1. [your_github_username_here's GitHub Profile](FIXTHISURL-https://github.com/your_username)
+1. [Howsitgoingdude's GitHub Profile](FIXTHISURL-https://github.com/Howsitgoingdude)
 
 ## Part 2 - Research
 
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
-| help    | man         |        |
-| Get-Location | pwd    |        |
-| Get-ChildItem | ls    |        |
-| mkdir   | mkdir       |        |
-| Set-Location | cd     |        |
-| New-Item | touch      |        |
-| Move-Item | mv        |        |
-| Copy-Item | cp        |        |
-| Remove-Item | rm      |        |
-| notepad.exe | vim     |        |
+| help    | man         | describes all the ways to use a function put after it       |
+| Get-Location | pwd    | shows what directory you are currently in       |
+| Get-ChildItem | ls    | shows all directories within the current one       |
+| mkdir   | mkdir       | makes a directory       |
+| Set-Location | cd     | changes the current directory       |
+| New-Item | touch      | changes a file's access       |
+| Move-Item | mv        | moves files       |
+| Copy-Item | cp        | copies files       |
+| Remove-Item | rm      | removes directories       |
+| notepad.exe | vim     | opens a text editor within the terminal       |
 
 ## Part 3 - Command Line Navigation
 
