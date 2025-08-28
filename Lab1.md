@@ -29,7 +29,7 @@ My OS is:
 - [] Linux
 - [x] Mac
 
-My Command Line Shell is: 
+My Command Line Shell is: Terminal
 
 ### Navigating My OS on the Command Line
 
@@ -41,18 +41,21 @@ My Command Line Shell is:
 6. Return to your user's home directory: ..
 7. Create a file named `test.txt`: touch test.txt
 8. Move the file named `test.txt` into `DirA`: mv test.txt
-9. Contents of `test.txt`: 
+9. Contents of `test.txt`: cat test.txt
 ```
 Hello World!
 ```
-10. Make a copy of `test.txt` named `copy.txt` in `DirA`:
-11. View the contents of `DirA`: 
-12. Make a copy of `test.txt` in `Dir B` named `fodder.txt`:
-13. Delete / remove both `fodder.txt` AND `Dir B`:
+10. Make a copy of `test.txt` named `copy.txt` in `DirA`: cp /Users/peytonpittman/test.txt copy.txt
+11. View the contents of `DirA`: ls
+12. Make a copy of `test.txt` in `Dir B` named `fodder.txt`: cp /Users/peytonpittman/test.txt fodder.txt
+13. Delete / remove both `fodder.txt` AND `Dir B`: rmdir 'Dir B'
 
 ## Citations
 
 To add citations, provide the site and a summary of what it assisted you with.  If generative AI was used, include which generative AI system was used and what prompt(s) you fed it.
 
+https://sites.radford.edu/~mhtay/CPSC120/VIM_Editor_Commands.htm : How to edit test.txt
+
+https://askubuntu.com/questions/802996/how-to-remove-directory-with-all-of-its-contents : Used to see how to delete a directory
 
 
